@@ -11,3 +11,5 @@ to test the techniques from the experiments.
 
 If you want to have a look at the complete data from the BPI Challenge 2017, you can download it at:
 https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884/1
+
+Furthermore, the repository contains a documentation of the BPO Challenge 2022 and the results of the experiments.
