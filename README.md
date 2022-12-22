@@ -9,5 +9,5 @@ https://drive.google.com/file/d/1FDKBLfW4oOdwWneEGDyPoRNyoXXkLCgS/view
 The two instance files have to be in the same folder as the three approaches and the simulator file 
 to test the techniques from the experiments.
 
-If you want to have a look at the complete data from the BPI Challenge 2017 you can download it at:
+If you want to have a look at the complete data from the BPI Challenge 2017, you can download it at:
 https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884/1
