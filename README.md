@@ -7,7 +7,8 @@ For the download of the two instance-files with the log-data from the BPI Challe
 https://drive.google.com/file/d/1FDKBLfW4oOdwWneEGDyPoRNyoXXkLCgS/view
 
 The two instance files have to be in the same folder as the three approaches and the simulator file 
-to test the techniques from the experiments.
+to test the techniques from the experiments. To repeat the experiments from the thesis, you can run each 
+file of the three approaches.
 
 If you want to have a look at the complete data from the BPI Challenge 2017, you can download it at:
 https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884/1
